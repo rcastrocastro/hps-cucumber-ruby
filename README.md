@@ -1,5 +1,5 @@
 # hps-cucumber-ruby
-[![Build Status](https://travis-ci.org/hiptest/hps-cucumber-ruby.svg?branch=master)](https://travis-ci.org/hiptest/hps-cucumber-ruby)
+[![Build Status](https://travis-ci.org/rcastrocastro/hps-cucumber-ruby.svg?branch=master)](https://travis-ci.org/rcastrocastro/hps-cucumber-ruby)
 
 Hiptest publisher samples with Cucumber/Ruby
 
